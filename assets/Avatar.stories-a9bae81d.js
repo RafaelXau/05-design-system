@@ -1,0 +1,2 @@
+import{A as t}from"./index-111cfd58.js";import"./index-50467059.js";import"./iframe-b45e5a9f.js";import"./index-8cafdbf3.js";import"./jsx-runtime-4e5a6949.js";const p={title:"Data display/Avatar",component:t,args:{src:"https://github.com/rafaelxau.png",alt:"Rafael Honório"},argTypes:{src:{control:{type:"text"}}}},c={},e={args:{src:void 0}},l=["Primary","WithFallback"];export{c as Primary,e as WithFallback,l as __namedExportsOrder,p as default};
+//# sourceMappingURL=Avatar.stories-a9bae81d.js.map
